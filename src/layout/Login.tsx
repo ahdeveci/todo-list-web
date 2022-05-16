@@ -25,7 +25,7 @@ const Login: React.FC = () => {
             sx={{
                 p: 3,
                 margin: 'auto',
-                marginTop: '25%',
+                marginTop: '10%',
                 maxWidth: 500,
                 flexGrow: 1,
                 backgroundColor: (theme) =>
